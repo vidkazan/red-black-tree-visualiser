@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RBT</string>
+    <string name="add">add</string>
+    <string name="erase">erase</string>
+</resources>
